@@ -56,7 +56,7 @@ ICD-10 diagnoses of depression and anxiety disorders"
 "In summary, our results suggest that increased computer use at age 16 is associated with an increased risk of depression and anxiety at age 18, although causality cannot be ascertained. After adjustment for potential confounders, there was little evidence of an effect of time spent texting or watching TV on risk of anxiety and depression indicating there may be a more complex relationship between screen time and mental health outcomes than simply more screen time increasing risk."
 
 
-
+CHRISTIAN: Add a paragraph for our work on data analysis and building epistemological confidence through open science, sharing of data, etc.Link it to policy making and why it is important for OpenNorth.
 
 
 
